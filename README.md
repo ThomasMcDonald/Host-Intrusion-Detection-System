@@ -2,6 +2,7 @@
 
 ** This shell program was created for the Network Security course 3413ICT **
 
-Created by:
+### Created by:
+Braydan Ruddell and
 Thomas McDonald
-Braydan Ruddell
+
